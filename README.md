@@ -1,4 +1,4 @@
-# Kiling Joke Global Game Jam 2024
+# Killing Joke
 
 Welcome to Killing Joke, a classic platformer where quick reflexes and nimble movements are the keys to survival! In this game, your goal is simple: dodge the enemies and obstacles to reach the end of the level.<br>
 
