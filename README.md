@@ -25,7 +25,7 @@ You find yourself trapped in a mysterious world filled with dangerous creatures 
 
 ## Credits
 - Game Development Team:
-  - Marios-Angelos Platon
-  - George Tsakonas
-  - Venetia Schina
+  - George Tsakonas (All the character 2D Art and Animations and some of the code)
+  - Marios-Angelos Platon (Mostly code)
+  - Venetia Schina (Background 2D Art and final check of code)
 
